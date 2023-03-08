@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\bin\Debug\net6.0-windows\DrawCylinder.exe
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\bin\Debug\net6.0-windows\DrawCylinder.deps.json
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\bin\Debug\net6.0-windows\DrawCylinder.runtimeconfig.json
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\bin\Debug\net6.0-windows\DrawCylinder.dll
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\bin\Debug\net6.0-windows\DrawCylinder.pdb
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.Form1.resources
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.AssemblyInfo.cs
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.dll
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\refint\DrawCylinder.dll
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.pdb
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\DrawCylinder.genruntimeconfig.cache
+C:\Users\devel\Desktop\DrawCylinder\DrawCylinder\obj\Debug\net6.0-windows\ref\DrawCylinder.dll
